@@ -3,7 +3,6 @@
   bottom:0;}
   to {bottom:100%;
   left:100%;}
-
 }
 
 .my-profile {
@@ -25,10 +24,8 @@ border:6px solid hsl(0, 0%,100%);
 
 #profile-name {
 font-family: 'Neonderthaw', cursive; 
-color:rgb(9, 132, 225)
- 
+color:rgb(9, 132, 225) 
 }
-
 
 .favorite-place {
 background-image: url(https://placeimg.com/640/480/nature);
@@ -49,7 +46,6 @@ background-size: cover;
   font-size: 3rem;
 
   transform: rotate(45deg);
-
 }
 
 
